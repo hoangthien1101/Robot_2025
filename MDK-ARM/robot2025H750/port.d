@@ -1,0 +1,12 @@
+robot2025h750\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+robot2025h750\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+robot2025h750\port.o: C:\Users\PhongVu\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+robot2025h750\port.o: C:\Users\PhongVu\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+robot2025h750\port.o: ../Core/Inc/FreeRTOSConfig.h
+robot2025h750\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+robot2025h750\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+robot2025h750\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+robot2025h750\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+robot2025h750\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+robot2025h750\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+robot2025h750\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
